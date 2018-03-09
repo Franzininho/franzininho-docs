@@ -2,68 +2,59 @@
 
 1. **O que é a Franzininho** 
 2. **Franzininho DIY**
-3. **Primeiros passos**
-
-<ul>
-  <li>Lista de materiais </li>
-  <li>Identificando os componentes </li>
-  <li>Montagem da placa </li>
-  <li>Pinagem </li>
-  <li>Gravação do bootloader</li>
-  <li>Configuração IDE Arduino </li>
-  <li>Drivers </li>
-    
-          - Linux 
-          - Windows 
-          - MAC 
-          - Upload de programa 
-
-</ul>
 
 
-4. **Tutoriais**
-<ul>
-  <li>DigitalWrite </li>
-  <li>DigitalRead </li>
-  <li>AnalogRead</li>
-  <li>AnalogWrite(PWM)</li>
-  <li>I2C</li>
-  <li>SPI </li>
-  <li>USB </li>
-  <li>Serial </li>
-</ul>
-
-
-5. **Dicas e Truques**
-<ul> 
-  <li> Criando uma biblioteca </li>
-  <li> Fritzing </li>
-</ul>
-
-6. **Exemplos de projetos**
-<ul>
-  <li>Pisca LED</li>
-  <li>Acenda e Apague um LED gradualmente</li>
-  <li>Acende LED enquanto o botão estiver pressionado </li>
-  <li>Sensor de luz com LDR </li>
-  <li>Caixinha de música </li>
-</ul>
-
-
-7. **Resolução de problemas**
-<ul>
-  <li> Linux </li>
-  <li> Mac </li>
-  <li> Windows </li>
-
-</ul>
-
-8. **Downloads**
-
-9. **FAQ**
+* Lista de materiais (BOM)
+* Identificando os componentes
+* Montagem da placa
+* Pinagem
+* Gravação do bootloader
+* Configuração IDE Arduino
+* Drivers
+	* Linux
+	* Windows
+	* MAC 
+       
+ * Upload do Sketch 
 
 
 
+3. **Tutoriais**
+
+* Entradas e Saídas Digitais
+* Entradas Analógicas
+* Saída PWM
+* I2C
+* SPI
+
+
+4. **Dicas e Truques**
+
+* Criando uma biblioteca
+* Instalando componente no Fritzing
+
+
+5. **Exemplos de projetos**
+
+* Pisca LED
+* Acenda e Apague um LED gradualmente
+* Acende LED enquanto o botão estiver pressionado
+* Sensor de luz com LDR
+* Caixinha de música
+* Relógio de tempo Real
+* Charlieplexing
+
+
+6. **Resolução de problemas**
+* Sistema operacional
+	* Linux
+	* Mac
+	* Windows
 
 
 
+7. **Downloads**
+* Apostilas
+* Slides
+
+8. **FAQ**
