@@ -1,8 +1,8 @@
 # Documentação do projeto Franzininho
 
 1. **O que é a Franzininho** 
-2. **Franzininho DIY  **
-3. **Primeiros passos **
+2. **Franzininho DIY**
+3. **Primeiros passos**
 
 <ul>
   <li>Lista de materiais </li>
@@ -21,7 +21,7 @@
  </ul>
 
 
-4. **Tutoriais **
+4. **Tutoriais**
 <ul>
   <li>DigitalWrite </li>
   <li>DigitalRead </li>
@@ -34,13 +34,13 @@
 </ul>
 
 
-5. **Dicas e Truques **
+5. **Dicas e Truques**
 <ul> 
   <li> Criando uma biblioteca </li>
   <li> Fritzing </li>
 
 
-6. **Exemplos de projetos **
+6. **Exemplos de projetos**
 <ul>
   <li>Pisca LED</li>
   <li>Acenda e Apague um LED gradualmente</li>
@@ -50,7 +50,7 @@
 </ul>
 
 
-7. **Resolução de problemas **
+7. **Resolução de problemas**
 <ul>
   <li> Linux </li>
   <li> Mac </li>
