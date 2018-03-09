@@ -12,13 +12,13 @@
   <li>Gravação do bootloader</li>
   <li>Configuração IDE Arduino </li>
   <li>Drivers </li>
-        <ul>
-          <li>Linux </li>
-          <li>windows </li>
-           <li>MAC </li> 
-           <li>upload de programa </li>
+    
+          - Linux 
+          - Windows 
+          - MAC 
+          - Upload de programa 
+
 </ul>
-</u>
 
 
 4. **Tutoriais**
