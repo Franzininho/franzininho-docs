@@ -31,7 +31,7 @@
 4. **Dicas e Truques**
 
 * Criando uma biblioteca
-* Instalando componente no Fritzing
+* [Instalando componente no Fritzing](https://github.com/Franzininho/franzininho-fritzing)
 
 
 5. **Exemplos de projetos**
@@ -43,6 +43,7 @@
 * Caixinha de música
 * Relógio de tempo Real
 * Charlieplexing
+* Carrinho controlado por Bluetooth
 
 
 6. **Resolução de problemas**
