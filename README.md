@@ -1,22 +1,27 @@
 # Documentação do projeto Franzininho
 
-O que é a Franzininho
+<h1> O que é a Franzininho </h1>
 
-Franzininho DIY
+<h1> Franzininho DIY </h1>
+<h1> Primeiros passos </h1>
+<ul>
+  <li>Lista materiais </li>
+  <li>Identificando os componentes </li>
+  <li>Montagem da placa </li>
+  <li>Pinagem </li>
+  <li>Gravação do bootloader</li>
+  <li>Configuração IDE Arduino </li>
+  <li>Drivers </li>
+        <ul>
+          <li>Linux </li>
+          <li>windows </li>
+           <li>MAC </li> 
+           <li>upload de programa </li>
+</ul>
+ </ul>
 
-Primeiros passos
-Lista materiais
-Identificando os componentes
-Montagem da placa
-Pinagem
-Gravação do bootloader
 
-Configuração IDE Arduino
-Drivers
-Linux
-windows
-MAC
-upload de programa
+
 
 
 Tutoriais
