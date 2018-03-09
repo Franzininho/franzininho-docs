@@ -18,7 +18,7 @@
            <li>MAC </li> 
            <li>upload de programa </li>
 </ul>
- </ul>
+</u>
 
 
 4. **Tutoriais**
@@ -26,7 +26,7 @@
   <li>DigitalWrite </li>
   <li>DigitalRead </li>
   <li>AnalogRead</li>
-  <li>AnalogWrite(PWM) </li>
+  <li>AnalogWrite(PWM)</li>
   <li>I2C</li>
   <li>SPI </li>
   <li>USB </li>
@@ -38,7 +38,7 @@
 <ul> 
   <li> Criando uma biblioteca </li>
   <li> Fritzing </li>
-
+</ul>
 
 6. **Exemplos de projetos**
 <ul>
