@@ -1,11 +1,11 @@
 # Documentação do projeto Franzininho
 
-<h1> O que é a Franzininho </h1>
+1. **O que é a Franzininho** 
+2. **Franzininho DIY  **
+3. **Primeiros passos **
 
-<h1> Franzininho DIY </h1>
-<h1> Primeiros passos </h1>
 <ul>
-  <li>Lista materiais </li>
+  <li>Lista de materiais </li>
   <li>Identificando os componentes </li>
   <li>Montagem da placa </li>
   <li>Pinagem </li>
@@ -21,43 +21,46 @@
  </ul>
 
 
+4. **Tutoriais **
+<ul>
+  <li>DigitalWrite </li>
+  <li>DigitalRead </li>
+  <li>AnalogRead</li>
+  <li>AnalogWrite(PWM) </li>
+  <li>I2C</li>
+  <li>SPI </li>
+  <li>USB </li>
+  <li>Serial </li>
+</ul>
 
 
-
-Tutoriais
-DigitalWrite
-DigitalRead
-AnalogRead
-AnalogWrite(PWM)
-I2C
-SPI
-USB
-Serial
+5. **Dicas e Truques **
+<ul> 
+  <li> Criando uma biblioteca </li>
+  <li> Fritzing </li>
 
 
-
-Dicas e Truques
-
-Criando uma biblioteca
-Fritzing
-
-Exemplos de projetos
-Pisca LED
-Acenda e Apague um LED gradualmente
-Acende LED enquanto o botão estiver pressionado
-Sensor de luz com LDR
-Caixinha de música
+6. **Exemplos de projetos **
+<ul>
+  <li>Pisca LED</li>
+  <li>Acenda e Apague um LED gradualmente</li>
+  <li>Acende LED enquanto o botão estiver pressionado </li>
+  <li>Sensor de luz com LDR </li>
+  <li>Caixinha de música </li>
+</ul>
 
 
+7. **Resolução de problemas **
+<ul>
+  <li> Linux </li>
+  <li> Mac </li>
+  <li> Windows </li>
 
-resolução de problemas
+</ul>
 
-linux
-mac
-windows
+8. **Downloads**
 
-
-FAQ
+9.**FAQ**
 
 
 
