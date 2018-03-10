@@ -33,15 +33,17 @@ A proposta é que todos os interessados possam montar o seu Arduino compatível,
 ## Continuação pós Arduino Day
 
 
-Após o Arduino Day, o layout da PCB foi melhorado onde foram incluídos mais 3 furos e ajustado o seu tamanho da placa. Também foi melhorado o silk e incluída a bandeira do Brasil.
+Após o Arduino Day, o layout da PCB foi melhorado onde foram incluídos mais 2 furos e ajustado o tamanho da placa. Também foi melhorado o silk e incluída a bandeira do Brasil.
 
-![novo layout](./04-franzininho.jpg?raw=true)
+![novo layout](./05-franzininho.png?raw=true)
 
 Para continuar, tínhamos o desafio de conseguir placas para novas oficinas, já que não é todo mundo que tem acesso a ferramentas de fabricação digital ou métodos caseiros. Para viabilizar a fabricação de placas Franzininho em uma empresa especializada, foi lançada uma especie de compra coletiva pela comunidade, liderada por Fábio Souza. Nessa inciativa foram feitas 600 placas, onde as pessoas tiveram acesso a placas com acabamento industrial. 
 
+![placas com acabamento industrial](./04-franzininho.jpg?raw=true)
+
 Dessas 600 placas diversas foram usadas para oficians em hackerspaces, oficinas de solda, eventos. Com isso a comunidade só ganhou força.
 
-Com isso surgiram diversas contribuições da comunidade para o projetos, como: materiais para oficinas, layout, projetos, etc. A comunidade está crescendo cada vez mais.
+Com isso surgiram diversas contribuições da comunidade para o projetos, como: materiais para oficinas, layout, projetos e pricipalmente na documentação. A comunidade está crescendo cada vez mais e com diversas inciativas.
 
 Hoje o projeto é mantido pela comunidade e liderado por Fábio Souza. Todos os materiais desenvolvidos são publicados com licenças open source que permitem que todos tenham acesso.
 
