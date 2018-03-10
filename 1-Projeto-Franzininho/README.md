@@ -17,8 +17,6 @@ O circuito foi projetado pensando na fabricação usando maquinas CNCs ou atrav�
 ![Atividades durante o Arduino Day](./03-franzininho.jpg?raw=true)
 
 
-> O nome Franzininho foi dado em continuação a placa open hardware que o Fábio Souza fez para sua palestra no Arduino Day de 2016, a Franzino.
-
 A Franzininho foi publicada com a licença CC-SA-4.0, sendo um projeto open hardware  que permite que qualquer pessoa possa:
 
 -   Estudar;
@@ -28,6 +26,8 @@ A Franzininho foi publicada com a licença CC-SA-4.0, sendo um projeto open hard
 -   ou vender
 
 A proposta é que todos os interessados possam montar o seu Arduino compatível, entender como funciona o circuito, fazer projetos e contribuir para o desenvolvimento de um projeto open source.
+
+> O nome Franzininho foi dado em continuação a placa open hardware que o Fábio Souza fez para sua palestra no Arduino Day de 2016, a [Franzino](https://github.com/FBSeletronica/Franzino).
 
 
 ## Continuação pós Arduino Day
