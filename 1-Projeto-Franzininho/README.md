@@ -5,16 +5,16 @@
 
 A Franzininho foi desenvolvida para as atividades dentro do [FAB LAB Livre SP](http://www.fablablivresp.art.br/arduinoday) durante o [Arduino Day São Paulo 2017](http://arduinosaopaulo.cc/). Thalis Antunes e Fábio Souza conceberam o projeto a partir do desafio de realizar atividades simultâneas nos 12 FAB LAB livres em SP, em um Arduino Day realizado pela Prefeirua de São Paulo e com apoio de Embarcados, Fazedores e MinasUP.  Como as atividades teriam apoio do ITS com os materiais, chegou-se a conclusão que seria melhor fazer placas compatíveis com Arduino para as pessoas montarem e terem experiencia com solda. A condição era que o projeto fosse open hardware. A partir dos projetos de hardwares das placas Arduino Gemma e Digispark (placas open hardware) desenvolveu-se uma placa com componentes discretos e em face simples. 
 
-![versão incial da Franzininho](https://github.com/Franzininho/franzininho-docs/blob/master/1-Projeto-Franzininho/01-franzininho.jpg?raw=true)
+![versão incial da Franzininho](./01-franzininho.jpg?raw=true)
 
 O circuito foi projetado pensando na fabricação usando maquinas CNCs ou através de processo de corrosão de PCI. Os 30 técnicos se empenharam adpataram o layout da Franzininho para o metodo de fabricação que tinham mais facilitade, foram feitas placas de diversas formas.
 
-![teste da placa antes do Arduino Day](https://github.com/Franzininho/franzininho-docs/blob/master/1-Projeto-Franzininho/02-franzininho.jpg?raw=true)
+![teste da placa antes do Arduino Day](./02-franzininho.jpg?raw=true)
 
 
  No dia 01/04/17 (Dia do Arduino 2017) foram produzidas 300 placas dentro dos 12 FAB LABs Livres SP. Foi incrível!
 
-![Atividades durante o Arduino Day](https://github.com/Franzininho/franzininho-docs/blob/master/1-Projeto-Franzininho/03-franzininho.jpg?raw=true)
+![Atividades durante o Arduino Day](./03-franzininho.jpg?raw=true)
 
 
 > O nome Franzininho foi dado em continuação a placa open hardware que o Fábio Souza fez para sua palestra no Arduino Day de 2016, a Franzino.
@@ -35,7 +35,7 @@ A proposta é que todos os interessados possam montar o seu Arduino compatível,
 
 Após o Arduino Day, o layout da PCB foi melhorado onde foram incluídos mais 3 furos e ajustado o seu tamanho da placa. Também foi melhorado o silk e incluída a bandeira do Brasil.
 
-![novo layout](https://github.com/Franzininho/franzininho-docs/blob/master/1-Projeto-Franzininho/04-franzininho.jpg?raw=true)
+![novo layout](./04-franzininho.jpg?raw=true)
 
 Para continuar, tínhamos o desafio de conseguir placas para novas oficinas, já que não é todo mundo que tem acesso a ferramentas de fabricação digital ou métodos caseiros. Para viabilizar a fabricação de placas Franzininho em uma empresa especializada, foi lançada uma especie de compra coletiva pela comunidade, liderada por Fábio Souza. Nessa inciativa foram feitas 600 placas, onde as pessoas tiveram acesso a placas com acabamento industrial. 
 
