@@ -1,3 +1,7 @@
+---
+title: Sobre o Projeto Franzininho
+---
+
 # Sobre o Projeto Franzininho
 
 ## Concepção e desenvolvimento
