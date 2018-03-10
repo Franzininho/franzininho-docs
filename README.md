@@ -1,6 +1,6 @@
 # Documentação do projeto Franzininho
 
-1. **O que é a Franzininho** 
+1. **Projeto Franzininho** 
 2. **Franzininho DIY**
 
 
