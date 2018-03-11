@@ -1,10 +1,13 @@
 # Documentação do projeto Franzininho
 
+
+
 1. **Projeto Franzininho** 
 2. **Placa Franzininho DIY**
 	* Lista de materiais (BOM)
 	* Identificando os componentes
-	* Montagem da placa
+	* [Montagem da placa V1](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Montagem-da-placa-V1 "Montagem da placa-versão 1")
+	* [Montagem da placa V2](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Montagem-da-placa-V2 "Montagem da placa - versão 2")
 	* Pinagem
 	* Gravação do bootloader
 	* Configuração IDE Arduino
