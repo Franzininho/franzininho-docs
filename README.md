@@ -4,7 +4,7 @@
 
 1. **[01-Projeto-Franzininho](https://github.com/Franzininho/franzininho-docs/tree/master/01-Projeto-Franzininho "01-Projeto-Franzininho")** 
 2. **Placa Franzininho DIY**
-	* Lista de materiais (BOM) (https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Lista%20materiais "Lista de materiais)
+	* [Lista de materiais (BOM)] (https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Lista%20materiais "Lista de materiais)
 	* Identificando os componentes
 	* [Montagem da placa V1](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Montagem-da-placa-V1 "Montagem da placa-versão 1")
 	* [Montagem da placa V2](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Montagem-da-placa-V2 "Montagem da placa - versão 2")
