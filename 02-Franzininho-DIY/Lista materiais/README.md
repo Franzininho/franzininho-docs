@@ -2,6 +2,8 @@
 
 #### Versão da placa Franzininho V1RV0
 
+  ![V1](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Lista%20materiais/V1.png)
+
 | Referência   | Descrição  |
 |---|---|
 | C1    | Capacitor Cerâmico 100 nF x 50 V     |
@@ -21,7 +23,8 @@
 | R5    | Resistor 5% de Tolerância 1/4W CR25 1K 1/4 W  |
 |RESET  | Chave Tactil 6x6x4 mm |                
 
-  ![16](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Montagem-da-placa-V1/16.png)
+![V2](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Lista%20materiais/V2.png)
+
 
 #### Versão da placa Franzininho V2RV0
 | Referência   | Descrição  |
@@ -46,4 +49,3 @@
 | RESET | Chave Tactil 6x6x4 mm |      
 | USB   | Conector USB |
 
-![20](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Montagem-da-placa-V2/20.png)
