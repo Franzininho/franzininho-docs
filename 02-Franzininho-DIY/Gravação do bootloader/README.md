@@ -6,3 +6,15 @@ title: Gravação do bootloader
 
 
 A placa Franzininho usa o Micronucleus como bootloader
+
+
+
+## Hardware
+
+
+
+## Windows
+
+
+
+## Linux
