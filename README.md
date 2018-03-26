@@ -2,7 +2,7 @@
 
 
 
-1. **[01-Projeto-Franzininho](https://github.com/Franzininho/franzininho-docs/tree/master/01-Projeto-Franzininho "01-Projeto-Franzininho")** 
+1. **[Projeto-Franzininho](https://github.com/Franzininho/franzininho-docs/tree/master/01-Projeto-Franzininho "01-Projeto-Franzininho")** 
 2. **Placa Franzininho DIY**
 	* [Lista de materiais (BOM)](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Lista%20materiais "Lista materiais") 
 	
