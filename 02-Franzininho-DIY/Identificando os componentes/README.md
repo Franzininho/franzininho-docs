@@ -24,9 +24,11 @@ R1 e R2 - 68 R
 ![resistor-68R.png](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Identificando%20os%20componentes/resistor-68R.png)
 
 R3 - 1K5
+
 ![resistor-1K5.png](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Identificando%20os%20componentes/resistor-1k.png)
 
 R4 e R5 - 1K
+
 ![resistor-1K.png](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Identificando%20os%20componentes/resistor-1k5.png)
 
 
