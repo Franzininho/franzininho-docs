@@ -21,6 +21,7 @@ Na Franzininho usamos X resitores:
 
 R1 e R2 - 68 R
 
+[resistor-68R.png](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Identificando%20os%20componentes/resistor-68R.png)
 
 R3 - 1K5
 
