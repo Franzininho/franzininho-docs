@@ -100,15 +100,14 @@ Agora vamos preparar o comando para gravar usando o avrdude:
   
   
 
-``` C:\arduino-1.8.2\hardware\tools\avr/bin/avrdude -CC:\arduino-1.8.2\hardware\tools\avr/etc/avrdude.conf -v -pattiny85 -cstk500v1 -PCOM3 -b19200 -Uflash:w:C:\Users\fabio\Downloads\Arduino\micronucleus\firmware\releases/t85_default.hex:i ```
+**C:\arduino-1.8.2\hardware\tools\avr/bin/avrdude** -C **C:\arduino-1.8.2\hardware\tools\avr/etc/avrdude.conf** -v -pattiny85 -cstk500v1 -P**COM3** -b19200 -Uflash:w:**C:\Users\fabio\Downloads\Arduino\micronucleus\firmware\releases/t85_default.hex**:i
+  
+
+Você precisa substituir as partes em negrito no comando acima, conforme os caminhos para os arquivos em seu computador.
 
   
 
-Você precisa substituir as partes em amarelo, conforme os caminhos para os arquivios em seu computador.
-
-  
-
-Verifique em qual porta a placa está conectada e substitua no destaque vermelho. No meu caso está na COM3.
+Verifique em qual porta a placa está conectada e substitua no comando **PCOM3**.
 
   
 
@@ -140,16 +139,16 @@ Abra o terminal:
 
 Agora vamos preparar o comando para gravar usando o avrdude:
 
-```/home/fabio/Downloads/arduino-1.8.5/hardware/tools/avr/bin/avrdude -C/home/fabio/Downloads/arduino-1.8.5/hardware/tools/avr/etc/avrdude.conf -v -pattiny85 -cstk500v1 -P/dev/ttyACM0 -b19200 -Uflash:w:/home/fabio/Downloads/micronucleus-master/firmware/releases/t85_default.hex:i ```
+**/home/fabio/Downloads/arduino-1.8.5/hardware/tools/avr/bin/avrdude** -C **/home/fabio/Downloads/arduino-1.8.5/hardware/tools/avr/etc/avrdude.conf** -v -pattiny85 -cstk500v1 -P/dev/**ttyACM0** -b19200 -Uflash:w:**/home/fabio/Downloads/micronucleus-master/firmware/releases/t85_default.hex**:i
 
   
   
 
-Você precisa substituir as partes em amarelo, conforme os caminhos para os arquivios em seu computador.
+Você precisa substituir as partes em negrito no comando acima, conforme os caminhos para os arquivos em seu computador.
 
   
 
-Verifique em qual porta a placa está conectada e substitua no destaque vermelho. No meu caso está na ttyACM0.
+Verifique em qual porta a placa está conectada e substitua no comando **ttyACM0**.No meu caso está na ttyACM0 e no seu computador pode ser diferente.
 
   
 
