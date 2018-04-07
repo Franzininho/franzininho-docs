@@ -18,7 +18,7 @@ Vamos usar os exemplos da Digispark para USB. Para isso, você precisa instalar 
 
 Acesse o menu Arquivos->preferencias e cole a URL a seguir para gerenciador de placas:
 
-    `http://digistump.com/package_digistump_index.json`
+    http://digistump.com/package_digistump_index.json
 
 ![url](./jason.png) 
 
