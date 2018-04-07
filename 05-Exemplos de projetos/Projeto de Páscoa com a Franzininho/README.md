@@ -9,4 +9,4 @@ O  cenário é de páscoa, onde temos um coelho movimentado sua cabeça e olhos 
 
 Veja o infográfico abaixo:
 
-![infografico-pascoa-A4.png](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Exemplos%20de%20projetos/infografico-pascoa-A4.png)
+![infografico-pascoa-A4.png](./infografico-pascoa-A4.png)
