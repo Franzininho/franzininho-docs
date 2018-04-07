@@ -1,8 +1,8 @@
 ## Controle Jogo Google Chrome (dinossauro)
 
-Nesse tutorial vamos exibir como controlar o jogo do Google Chrome (quando a internet cai :( ) usando a Franzininho.
+Nesse tutorial vamos exibir como fazer um controle para jogar o jogo do Google Chrome, o dinossauro que aparece quando a internet cai :) usando a Franzininho.
 
-Para esse tutorial você precisa instalar o bootloader Micronucleus, conforme exibido nesse tutorial.
+Para esse tutorial você precisa instalar o bootloader Micronucleus, conforme exibido no [tutorial de gravação do bootloader Micronucleus](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Grava%C3%A7%C3%A3o%20do%20bootloader/Micronucleus)
 
 
 ### Circuito
