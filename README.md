@@ -46,6 +46,7 @@
 	* Relógio de tempo Real
 	* Charlieplexing
 	* Carrinho controlado por Bluetooth
+	* Controle Jogo Google Chrome (dinossauro)
 
 
 6. **Resolução de problemas**
