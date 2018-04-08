@@ -80,7 +80,7 @@ void loop() {
 Pronto, agora é só se divertir.
 
 
-Confira o video de funcionamento:
+Confira o video de funcionamento clicando na imagem abaixo:
 
 [![Video](http://img.youtube.com/vi/aMfCYi9xhcA/0.jpg)](http://www.youtube.com/watch?v=aMfCYi9xhcA "Controle para o Jogo do Google Chrome (Dino) com a Franzininho
 ")
