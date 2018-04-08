@@ -1,4 +1,4 @@
-## Controle Jogo Google Chrome (dinossauro)
+## Controle para o Jogo do Google Chrome (dinossauro) com a Franzininho
 
 Nesse tutorial vamos fazer um controle para jogar o jogo do Google Chrome, aquele do dinossauro que aparece quando a internet cai :).
 
@@ -78,6 +78,12 @@ void loop() {
     
 
 Pronto, agora é só se divertir.
+
+
+Confira o video de funcionamento:
+
+[![Video](http://img.youtube.com/vi/aMfCYi9xhcA/0.jpg)](http://www.youtube.com/watch?v=aMfCYi9xhcA "Controle para o Jogo do Google Chrome (Dino) com a Franzininho
+")
 
 
 ## Desafio
