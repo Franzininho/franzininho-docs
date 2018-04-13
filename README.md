@@ -10,7 +10,7 @@
 	* [Montagem da placa V1](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Montagem-da-placa-V1 "Montagem da placa-versão 1")
 	* [Montagem da placa V2](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Montagem-da-placa-V2 "Montagem da placa - versão 2")
 	* [Pinagem](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Pinagem)
-	* Gravação do bootloader
+	* [Gravação do bootloader](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Grava%C3%A7%C3%A3o%20do%20bootloader)
 	* Configuração IDE Arduino
 	* Drivers
 		* Linux
