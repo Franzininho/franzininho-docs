@@ -2,7 +2,7 @@
 
 #### Versão da placa Franzininho V1RV0
 
-  ![V1](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Lista%20materiais/V1.png)
+  ![V1](./V1.png)
 
 | Referência   | Descrição  |
 |---|---|
@@ -16,14 +16,14 @@
 | JP3   | Barra de pinos estampada 15 mm 1x40 180º |
 | LED   | Led 3mm Amarelo Difuso  |
 | PWR   | Led 3mm Verde Difuso |
-| R1    | Resistor 5% de Tolerância 1/4W CR25 68 R  |
-| R2    | Resistor 5% de Tolerância 1/4W CR25 68 R 1/4 W |
-| R3    | Resistor 5% de Tolerância 1/4W CR25 1K5 1/4 W  |
-| R4    | Resistor 5% de Tolerância 1/4W CR25 1K 1/4 W  |
-| R5    | Resistor 5% de Tolerância 1/4W CR25 1K 1/4 W  |
-|RESET  | Chave Tactil 6x6x4 mm |                
-
-![V2](https://github.com/Franzininho/franzininho-docs/blob/master/02-Franzininho-DIY/Lista%20materiais/V2.png)
+| R1    | Resistor 68 R - 5% 1/4 W  |
+| R2    | Resistor 68 R - 5% 1/4 W |
+| R3    | Resistor 1K5 - 5% 1/4 W |
+| R4    | Resistor 1K - 5% 1/4 W  |
+| R5    | Resistor 1K - 5% 1/4 W  |
+|RESET  | Chave Táctil 6x6x4 mm |                
+1/4 W 5%
+![V2](./V2.png)
 
 
 #### Versão da placa Franzininho V2RV0
@@ -41,11 +41,10 @@
 | J1    | Barra de 3 pinos estampada 15 mm 1x40 1  |
 | LED   | Led 3mm Amarelo Difuso  |
 | PWR   | Led 3mm Verde Difuso |
-| R1    | Resistor 5% de Tolerância 1/4W CR25 68 R  |
-| R2    | Resistor 5% de Tolerância 1/4W CR25 68 R 1/4 W |
-| R3    | Resistor 5% de Tolerância 1/4W CR25 1K5 1/4 W  |
-| R4    | Resistor 5% de Tolerância 1/4W CR25 1K 1/4 W  |
-| R5    | Resistor 5% de Tolerância 1/4W CR25 1K 1/4 W  |
-| RESET | Chave Tactil 6x6x4 mm |      
+| R1    | Resistor 68 R - 5% 1/4 W  |
+| R2    | Resistor 68 R - 5% 1/4 W |
+| R3    | Resistor 1K5 - 5% 1/4 W |
+| R4    | Resistor 1K - 5% 1/4 W  |
+| R5    | Resistor 1K - 5% 1/4 W  |
+| RESET | Chave Táctil 6x6x4 mm |      
 | USB   | Conector USB |
-
