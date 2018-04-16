@@ -1,6 +1,6 @@
 # Lista de Materiais para montar a Franzininho
 
-#### Versão da placa Franzininho V1RV0
+### Versão da placa Franzininho V1RV0
 
   ![V1](./V1.png)
 
@@ -26,7 +26,7 @@
 
 
 
-#### Versão da placa Franzininho V2RV0
+### Versão da placa Franzininho V2RV0
 
 ![V2](./V2.png)
 
@@ -39,10 +39,10 @@
 | D2    | Diodo Zener 3,6 V 0,5W |
 | D3    | Diodo  1N4148  |
 | IC1   | Microcontrolador ATTINY85 - 20PU  |
-| IC2   | Regulador de tensão |
+| IC2   | 78L05 - Regulador de tensão |
 | SQ1   | Soquete Para CI Torneado 8 pinos  |
 | JP3   | Barra de 8 pinos estampada 15 mm 1x40 180° |
-| J1    | Barra de 3 pinos estampada 15 mm 1x40 1  |
+| J1    | Barra de 3 pinos estampada 15 mm 1x40 180° |
 | LED   | Led 3mm Amarelo Difuso  |
 | PWR   | Led 3mm Verde Difuso |
 | R1    | Resistor 68 R - 5% 1/4 W  |
