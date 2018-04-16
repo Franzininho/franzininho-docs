@@ -13,7 +13,7 @@
 | D3    | Diodo  1N4148  |
 | IC1   | Microcontrolador ATTINY85 - 20PU  |
 | SQ1   | Soquete Para CI Torneado 8 pinos  |
-| JP3   | Barra de pinos estampada 15 mm 1x40 180º |
+| JP3   | Barra de pinos estampada 15 mm 1x40 180° |
 | LED   | Led 3mm Amarelo Difuso  |
 | PWR   | Led 3mm Verde Difuso |
 | R1    | Resistor 68 R - 5% 1/4 W  |
@@ -22,11 +22,15 @@
 | R4    | Resistor 1K - 5% 1/4 W  |
 | R5    | Resistor 1K - 5% 1/4 W  |
 |RESET  | Chave Táctil 6x6x4 mm |                
-1/4 W 5%
-![V2](./V2.png)
+
+
 
 
 #### Versão da placa Franzininho V2RV0
+
+![V2](./V2.png)
+
+
 | Referência   | Descrição  |
 |---|---|
 | C1    | Capacitor Cerâmico 100 nF x 50 V     |
@@ -37,7 +41,7 @@
 | IC1   | Microcontrolador ATTINY85 - 20PU  |
 | IC2   | Regulador de tensão |
 | SQ1   | Soquete Para CI Torneado 8 pinos  |
-| JP3   | Barra de 8 pinos estampada 15 mm 1x40 180º |
+| JP3   | Barra de 8 pinos estampada 15 mm 1x40 180° |
 | J1    | Barra de 3 pinos estampada 15 mm 1x40 1  |
 | LED   | Led 3mm Amarelo Difuso  |
 | PWR   | Led 3mm Verde Difuso |
