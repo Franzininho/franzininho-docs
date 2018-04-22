@@ -21,7 +21,7 @@ Jumpers macho/fêmea;
 
 Na protoboard você pode montar o circuito para acionamento do LED da seguinte forma:
 
-![](./image1.PNG)
+![](./image1.png)
 
 
 ### Sketch
