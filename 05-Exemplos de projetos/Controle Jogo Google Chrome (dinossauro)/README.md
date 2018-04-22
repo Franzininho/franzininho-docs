@@ -9,7 +9,7 @@ Para esse tutorial você precisa instalar o bootloader Micronucleus, conforme ex
 
 Para esse projeto você irá precisar apenas de uma Franzininho e uma chave tactil:
 
-![url](./circuito.png) 
+![url](./circuito.png)
 
 
 ### Configuração da IDE Arduino
@@ -20,21 +20,21 @@ Acesse o menu Arquivos->preferencias e cole a URL a seguir para gerenciador de p
 
     http://digistump.com/package_digistump_index.json
 
-![url](./jason.PNG) 
+![](./image1.png)
 
 Agora acesso o menu: Ferramentas-> placa -> Gerenciador de placas. Aguarde alguns segundos até atualização da lista de pacotes e digite "digi". Aparecerá o pacote “Digistump AVR Boards” e clique em instalar.
 
-![instalar](./instalando pacote.png) 
+![instalar](./image2.png)
 
 Aguarde o fim da instalação e clique em fechar.
 
 Agora acesse o menu: Ferramentas->placas e escolha a opção “Digispark (Default - 16.5mhz)”.
 
-![select board](./selectBoard.png) 
+![select board](./image3.png)
 
 Agora acesse o menu Ferramentas-> programador e selecione a opção Micronucleus:
 
-![micronucleus](./micronucleus.png) 
+![micronucleus](./image4.png)
 
 Pronto a IDE está pronta para programar a placa.
 
@@ -57,25 +57,25 @@ void setup() {
 }
 
 
-void loop() { 
-   
+void loop() {
+
   int estadoAtualBT= digitalRead(btPin);      // Lê estado do botão
-  
-  
-  if ((estadoAtualBT != estadoAnteriorBotao)&& (estadoAtualBT == LOW)){       //Se o botão foi pressionado e o seu estado mudou 
+
+
+  if ((estadoAtualBT != estadoAnteriorBotao)&& (estadoAtualBT == LOW)){       //Se o botão foi pressionado e o seu estado mudou
 
   //Envia comando da tecla espaço para o computador
 
   DigiKeyboard.sendKeyStroke(0);
   DigiKeyboard.println("  ");
-        
+
   }
-  
+
   estadoAnteriorBotao = estadoAtualBT;  //salva o estado do botão para comparar na próxima leitura
-  
+
 }
 ```
-    
+
 
 Pronto, agora é só se divertir.
 
@@ -95,8 +95,3 @@ Você percebeu que o jogo precisa de mais um comando para o dinossauro baixar? I
 O exemplo apresentado pode ser adaptado para controle de outros jogos que usam teclas como controle. Verifique quais jogos você pode controlar e insira mais teclas.
 
 Boa diversão
-
-
-
-
-
