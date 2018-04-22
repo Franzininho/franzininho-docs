@@ -1,5 +1,6 @@
 /*
-  Pisca LED - Blink
+  Franzininho
+  Exemplo: Pisca LED - Blink
 
   Esse exemplo exibe como piscar o LED presente na placa ou um LED externo ligado ao pino 1 da Franzininho em intervalos de 1 segundo.
     

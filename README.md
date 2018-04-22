@@ -34,7 +34,7 @@
 5. **Exemplos de projetos**
 
 	- Pisca LED
-	- Acenda e Apague um LED gradualmente
+	- Controle brilho de LED
 	- Acende LED enquanto o botão estiver pressionado
 	- Sensor de luz com LDR
 	- Caixinha de música
