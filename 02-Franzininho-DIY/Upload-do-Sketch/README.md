@@ -51,14 +51,14 @@ O processo de gravação para o Micronucleus é um pouco diferente.
 
  3 - Após a compilação será exibidada seguinte mensagem:
 
-![](./image6.png)
+![](./image6.PNG)
 
 Você tem até 60 segundos para inserir a placa na USB do computador.
 
 4 - Plugue a Franzininho na porta USB do seu computador
 
- Após plugar a placa será inciado o upload do código:
+ Após plugar a placa será iniciado o upload do código:
 
-![](./image7.png)
+![](./image7.PNG)
 
 Pronto, a sua Franzininho está programada.
