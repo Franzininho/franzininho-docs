@@ -12,7 +12,7 @@
 	* [Gravação do bootloader](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Grava%C3%A7%C3%A3o%20do%20bootloader)
 	* Drivers
 	* [Configuração IDE Arduino](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Configura%C3%A7%C3%A3o-IDE-Arduino)
-	* Upload do Sketch
+	* [Upload do Sketch](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Upload-do-Sketch)
 
 
 
