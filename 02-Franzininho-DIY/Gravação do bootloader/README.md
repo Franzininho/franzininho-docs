@@ -11,5 +11,5 @@ O outro é o Micronucleus (que vamos deixar como padrão no futuro), esse é um 
 
 A seguir explicamos como instalar cada um deles, conforme a sua escolha.
 
-- Gemma
+- [Gemma](./Gravação do bootloader/Gemma/)
 - [Micronucleus](https://github.com/Franzininho/franzininho-docs/tree/master/02-Franzininho-DIY/Grava%C3%A7%C3%A3o%20do%20bootloader/Micronucleus)
