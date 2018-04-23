@@ -35,7 +35,7 @@
 
 - [Pisca LED](https://github.com/Franzininho/franzininho-docs/tree/master/05-Exemplos%20de%20projetos/Pisca-LED-(blink))
 - [Controle brilho de LED](https://github.com/Franzininho/franzininho-docs/tree/master/05-Exemplos%20de%20projetos/Controle-brilho-de-LED)
-- Acende LED enquanto o botão estiver pressionado
+- Leitura de Tecla
 - Sensor de luz com LDR
 - Caixinha de música
 - Relógio de tempo Real
