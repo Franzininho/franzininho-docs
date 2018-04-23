@@ -2,7 +2,7 @@
 
 - [Pisca LED](https://github.com/Franzininho/franzininho-docs/tree/master/05-Exemplos%20de%20projetos/Pisca-LED-(blink))
 - [Controle brilho de LED](https://github.com/Franzininho/franzininho-docs/tree/master/05-Exemplos%20de%20projetos/Controle-brilho-de-LED)
-- Leitura de Tecla
+- [Leitura de Tecla](https://github.com/Franzininho/franzininho-docs/tree/master/05-Exemplos%20de%20projetos/Leitura-de-tecla)
 - Sensor de luz com LDR
 - Caixinha de música
 - Relógio de tempo Real
