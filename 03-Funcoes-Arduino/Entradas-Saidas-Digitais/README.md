@@ -4,6 +4,11 @@ title: Entradas e Saídas Digitais
 
 ## Entradas e Saídas Digitais
 
+Na Franzininho temos **6 pinos** que podem ser usados com entradas ou saídas digitais( P0 a P5), conforme pinout:
+
+![](./pinagem-V2.png)
+
+**verificar limitações de uso dos pinos**
 
 ### Configuração do modo de funcionamento do pino
 
