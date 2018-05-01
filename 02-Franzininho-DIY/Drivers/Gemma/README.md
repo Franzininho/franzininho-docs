@@ -1,8 +1,8 @@
 ---
-title: Gravação do bootloader Gemma
+title: Configuração dos drivers para Gemma
 ---
 
-## Gravação do bootloader Gemma
+## Configuração dos drivers para Gemma
 
 
 Se você está usando o bootloader da Arduino Gemma, sigas as orientações a seguir para a configuração do seu computador

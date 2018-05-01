@@ -1,8 +1,8 @@
 ---
-title: Gravação do bootloader Micronucleus
+title: Configuração dos drivers para Micronucleus
 ---
 
-## Gravação do bootloader Micronucleus
+## Configuração dos drivers para Micronucleus
 
 
 Se você está usando o Micronucleus como bootloader e as bibliotecas da Digispark, faça as configurações a seguir:
