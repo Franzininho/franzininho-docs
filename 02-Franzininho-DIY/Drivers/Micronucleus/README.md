@@ -11,18 +11,15 @@ Se você está usando o Micronucleus como bootloader e as bibliotecas da Digispa
 ## Windows
 
 
-Faça o download e descompacte o diretório para instalar o drive:
+Faça o download do driver no seguinte link:
 
 https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip
 
-
-
-Nota:
-Para  Windows 32 bits execute o DPinst.exe
-Para Windows 64 bits execute o DPinst64.exe
+Descompacte e instale. Para Windows 32 bits execute o DPinst.exe e se tiver usando o Windows 64 bits execute o DPinst64.exe
 
 Fonte: http://digistump.com/wiki/digispark/tutorials/connecting
 
 
-## linux
+## Linux
+
 Linux Troubleshooting: http://digistump.com/wiki/digispark/tutorials/linuxtroubleshooting
