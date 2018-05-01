@@ -16,7 +16,7 @@
 
 
 
-3. **Tutoriais**
+3. **Funções Arduino**
 
 	* Entradas e Saídas Digitais
 	* Entradas Analógicas
