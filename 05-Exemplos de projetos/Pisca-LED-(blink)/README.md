@@ -10,11 +10,11 @@ O primeiro contato com a programação com o Arduino,  você faz o blink (que fa
 
 ### Materiais:
 
-Placa Franzininho;
-Protoboard;
-LED 3mm;
-Resistor 220;
-Jumpers macho/fêmea;
+- Placa Franzininho;
+- Protoboard;
+- LED 3mm;
+- Resistor 330;
+- Jumpers
 
 
 ### Circuito
