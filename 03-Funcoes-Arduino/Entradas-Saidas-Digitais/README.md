@@ -8,7 +8,7 @@ Na Franzininho temos **6 pinos** que podem ser usados com entradas ou saídas di
 
 ![](./pinagem-V2.png)
 
-**verificar limitações de uso dos pinos**
+>**verificar limitações de uso dos pinos**
 
 ### Configuração do modo de funcionamento do pino
 
@@ -35,7 +35,7 @@ Configura um pino especifico para ser entrada ou saída digital.
 
 Vamos configurar pino P0 para leitura de uma tecla, portanto será uma entrada digital. Também vamos configurar o pino P1 para acionamento do LED, ou seja, uma saída digital:
 
-```
+```cpp
 int tecla = 0;   //pino da tecla
 int LED = 1;     //pino do LED
 
@@ -77,7 +77,7 @@ Coloca um nível lógico Alto (HIGH, 5V) ou baixo (LOW, 0V) em um pino configura
 
 Inverte o estado do LED (P1) em intervalos de 1 segundo:
 
-```
+```cpp
 const int LED = 1; //pino digital conectado ao LED
 
 void setup(){
@@ -128,7 +128,7 @@ Vamos ler o estado da tecla ligada o pino P2 e acionar o LED ligado a pino P1 co
 
 ![](./image1.png)
 
-```
+```cpp
 const int LED = 1; //pino para o LED
 const int BOTAO = 2; //pino para o botão
 
