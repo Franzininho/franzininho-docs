@@ -1,4 +1,4 @@
-# Projeto de Páscoa com a Franzininho
+# Projeto de Páscoa 
 
 O propósito desse projeto é de estimular a criatividade das crianças através da pintura, recorte, colagem,montagem e
 animação com programação.
