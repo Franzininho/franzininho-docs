@@ -146,13 +146,8 @@ SIGNAL(TIMER0_COMPA_vect) {
 }
 
 
-
 Veja o infográfico abaixo:
 
-![infografico-pascoa-A4.png](./infografico-pascoa-A4.png)
-
-Veja os vídeos no Youtube!
-
-[![Video](https://github.com/Franzininho/franzininho-docs/blob/master/05-Exemplos%20de%20projetos/Projeto%20de%20P%C3%A1scoa%20com%20a%20Franzininho/DSC_0037.JPG)](https://www.youtube.com/watch?v=Gz75P0gOktY&t=10s)"Projeto de Páscoa com a Franzininho"
+![infografico-pascoa-A4.png](https://github.com/Franzininho/franzininho-docs/blob/master/05-Exemplos%20de%20projetos/Projeto%20de%20P%C3%A1scoa%20com%20a%20Franzininho/infografico-pascoa-A4.png)
 
 
