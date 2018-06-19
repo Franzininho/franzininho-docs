@@ -82,9 +82,9 @@ Primeiro componente a ser colocado é o Diodo 1N4148 no D3, cuidando com a polar
   ![14](./14.png)
   
   
-  **11. Transistor**
+  **11. Regulador de tensão**
   
-  No IC2 deve colocar o transistor, ele tem 3 terminais (perninhas) você deve colocar conforme o desenho na placa.
+  No IC2  você deve colocar o regulador, eletem 3 terminais (perninhas) você deve colocar conforme o desenho na placa.
   
   ![15](./15.png)
   
