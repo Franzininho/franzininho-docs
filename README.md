@@ -25,7 +25,7 @@ Se quiser entrar em contato com os administradores do projeto, envie um e-mail p
 3. **[Funções Arduino](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino)**
 
 	* [Entradas e Saídas Digitais](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/Entradas-Saidas-Digitais)
-	* Entradas Analógicas
+	* [Entradas Analógicas](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/Entradas-Analogicas)
 	* Saída PWM
 	* I2C
 	* SPI
