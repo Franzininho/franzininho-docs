@@ -8,7 +8,7 @@ Na Franzininho temos **1 pino** que pode ser usado como entrada Analógica (A1).
 
 ![](./pinagem-V2.png)
 
->** * verificar limitações de uso dos pinos**
+>**verificar limitações de uso dos pinos**
 
 
 ## Função
