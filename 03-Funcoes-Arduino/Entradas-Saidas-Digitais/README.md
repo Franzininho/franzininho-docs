@@ -21,7 +21,7 @@ Configura um pino especifico para ser entrada ou saída digital.
 #### Sintaxe:
 `pinMode(pino, modo);`
 
-#### Parametros:
+#### Parâmetros:
 
 **pino:** corresponde ao pino que você irá usar,  no caso da Franzininho podemos usar pinos de 0 a 5.
 
