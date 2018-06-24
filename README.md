@@ -24,16 +24,14 @@ Se quiser entrar em contato com os administradores do projeto, envie um e-mail p
 
 3. **[Funções Arduino](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino)**
 
-	* [Entradas e Saídas Digitais](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/Entradas-Saidas-Digitais)
-	* [Entradas Analógicas](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/Entradas-Analogicas)
-	* Saída PWM
-	* I2C
-	* SPI
+	- [Entradas e Saídas Digitais](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/Entradas-Saidas-Digitais)
+	- [Entradas Analógicas](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/Entradas-Analogicas)
+	- [PWM](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/PWM)
+	- [I2C](https://github.com/Franzininho/franzininho-docs/tree/master/03-Funcoes-Arduino/I2C)
 
 
 4. **Dicas e Truques**
 
-	* Criando uma biblioteca
 	* [Instalando componente no Fritzing](https://github.com/Franzininho/franzininho-fritzing)
 
 
