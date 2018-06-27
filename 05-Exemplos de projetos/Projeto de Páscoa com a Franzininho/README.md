@@ -45,14 +45,16 @@ Passo 5 - Agora você deve colar a cabeça do coelho no servo motor com cola que
 Passo 6 - Com a cola quente você deve colar o corpo do coelho no palito de churrasco.
 
 
-# Segunda etapada: Ligação do circuito 
+# Segunda etapa: Ligação do circuito 
 
-Passo 1: A ligação deve ser feita no seguintes fios.
+A ligação deve ser feita no seguintes fios, talvez você tenha que usar jumpers macho-femea para a ligação com a Franzininho.
 
-Fio preto do servo motor no GND dos pinos da Franzininho
+Passo 1: Fio laranja do servo motor no pino 1 da Franzininho
 
-Fio Marrom do servo motor no VCC dos pinos da Franzininho
-Fio Vermelho
+Passo 1: Fio Vermelho do servo motor no pino VCC da Franzininho
+
+Passo 3: Fio Marrom do servo motor no GND do pino da Franzininho
+
 
 # Circuito
 
