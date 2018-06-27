@@ -24,7 +24,7 @@ Acesse o menu Arquivos->preferencias e cole a URL a seguir para gerenciador de p
 
 Agora acesso o menu: Ferramentas-> placa -> Gerenciador de placas. Aguarde alguns segundos até atualização da lista de pacotes e digite "digi". Aparecerá o pacote “Digistump AVR Boards” e clique em instalar.
 
-![instalar](./image2.png)
+![instalar](./image2.PNG)
 
 Aguarde o fim da instalação e clique em fechar.
 
