@@ -148,8 +148,4 @@ SIGNAL(TIMER0_COMPA_vect) {
 }
 
 
-Veja o infográfico abaixo:
-
-![infografico-pascoa-A4.png](https://github.com/Franzininho/franzininho-docs/blob/master/05-Exemplos%20de%20projetos/Projeto%20de%20P%C3%A1scoa%20com%20a%20Franzininho/infografico-pascoa-A4.png)
-
 
