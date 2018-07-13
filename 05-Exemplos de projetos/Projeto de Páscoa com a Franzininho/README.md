@@ -3,7 +3,9 @@
 O propósito desse projeto é de estimular a criatividade das crianças através da pintura, recorte, colagem,montagem e
 animação com programação.
 
-O  cenário é de páscoa, onde temos um coelho movimentado sua cabeça e olhos de piscantes, o coelho é feito de papel sulfite e para que fique firme foi usado papel de caixa de bombom, os olhos foram colocados 2 leds, e para que a cabeça faça o movimento foi usado um servo motor, para isso foi usado jumpers e a placa Franzininho. Logo temos mais informações:
+O  cenário é de páscoa, onde temos um coelho movimenta sua cabeça e olhos piscantes, o coelho é feito de papel sulfite e para que fique firme foi usado papel de caixa de bombom, os olhos foram colocados 2 leds, e para que a cabeça faça o movimento foi usado um mini servo motor, utilizando jumpers e uma placa Franzininho.
+
+![imagem-coelho.JPG](https://github.com/Franzininho/franzininho-docs/blob/master/05-Exemplos%20de%20projetos/Projeto%20de%20P%C3%A1scoa%20com%20a%20Franzininho/imagem%20-coelho.JPG)
 
 A seguir vamos apresentar uma aplicação que você pode fazer com o seu filho ou alunos.
 
@@ -43,6 +45,12 @@ Passo 4 - Após isso, deve-se colar os desenhos em um papel mais firme, pode ser
 Passo 5 - Agora você deve colar a cabeça do coelho no servo motor com cola quente.
 
 Passo 6 - Com a cola quente você deve colar o corpo do coelho no palito de churrasco.
+
+
+
+![DSC_0039.JPG](https://github.com/Franzininho/franzininho-docs/blob/master/05-Exemplos%20de%20projetos/Projeto%20de%20P%C3%A1scoa%20com%20a%20Franzininho/DSC_0039.JPG)
+
+[Confira o video](https://www.youtube.com/watch?v=aJnDY-d8O4A&t=131s)
 
 
 # Segunda etapa: Ligação do circuito 
@@ -147,5 +155,9 @@ SIGNAL(TIMER0_COMPA_vect) {
   }
 }
 
-
+```
+ 
+[Confira o video do coelho da páscoa](https://www.youtube.com/watch?v=twyxTTyYdxA)
+ 
+[Confira o video do jogador de futebol](https://www.youtube.com/watch?v=CVhnCafwPNY)
 
