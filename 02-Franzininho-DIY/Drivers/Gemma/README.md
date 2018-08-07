@@ -40,7 +40,7 @@ Para usar com a maioria das distribuições Linux é necessário configurar algu
 Para instalar as regras, você precisará baixá-las e copiá-las para o local das regras do udev em seu sistema. Para a maioria dos sistemas Linux, como o Ubuntu, etc., as regras do udev são armazenadas em /etc/udev/rules.d/ (verifique a documentação da distribuição / fóruns de ajuda se você não encontrar essa pasta). Execute os seguintes comandos:
 
 ```
-wget https://github.com/adafruit/Trinket_Arduino_Linux/raw/master/99-adafruit-boards.rules
+wget https://raw.githubusercontent.com/Franzininho/Franzininho-Linux/master/franzininho-gemma.rules
 sudo cp 99-adafruit-boards.rules /etc/udev/rules.d/
 ```
 
